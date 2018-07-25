@@ -6,3 +6,5 @@ confirm password:
 sign up
 
 popup message after signup completion
+image upload feature added
+
