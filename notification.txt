@@ -1,1 +1,2 @@
 user will be notified each time when message arrives
+new notification received
