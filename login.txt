@@ -3,3 +3,4 @@ password :hello
 login
  login was successful( message )
 
+if user put invalid credentials error message should be shown
