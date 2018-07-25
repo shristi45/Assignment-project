@@ -1,0 +1,7 @@
+sign up details
+full name:
+username:
+password:
+confirm password:
+sign up
+
