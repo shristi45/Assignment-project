@@ -1,2 +1,4 @@
 user will be notified each time when message arrives
 new notification received
+when user adds job notification is seen
+add job 
